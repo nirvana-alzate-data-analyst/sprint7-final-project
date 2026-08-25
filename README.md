@@ -22,8 +22,11 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 **Como ejecutar el notebook:**
 
 -Clona o descarga este repositorio en tu equipo.
+
 -Asegúrate de tener instalado Python y Jupyter Notebook o JupyterLab.
+
 -Abre una terminal y ubícate en la carpeta del proyecto.
+
 -Inicia Jupyter Notebook o JupyterLab con:
 jupyter notebook
 
