@@ -15,21 +15,21 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 **Etapas de análisis realizadas:**
 
-- Exploración de la estructura de los datasets
+-Exploración de la estructura de los datasets
 
--  Identificación de problemas de calidad de datos
+-Identificación de problemas de calidad de datos
 
--  Limpieza básica de datos
+-Limpieza básica de datos
 
--  Summary statistics de uso por usuario
+-Summary statistics de uso por usuario
 
--  Visualización de distribuciones (uso y clientes) y outliers
+-Visualización de distribuciones (uso y clientes) y outliers
 
--   Segmentación de Clientes
+-Segmentación de Clientes
 
--    Insight Ejecutivo para Stakeholders
+-Insight Ejecutivo para Stakeholders
 
--    Cargar tu notebook y README a GitHub
+-Cargar tu notebook y README a GitHub
 
 **Como ejecutar el notebook:**
 
