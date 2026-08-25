@@ -1,5 +1,5 @@
 # sprint7-final-project
-*** Análisis de comportamiento de usuarios - ConnectaTel***
+# Análisis de comportamiento de usuarios - ConnectaTel
 
 **Objetivo del proyecto:**
 Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
